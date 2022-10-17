@@ -2,3 +2,14 @@ body{
   background-color:lightblue;
   text-align:center;
 }
+h1{
+  font-size:26px
+}
+ol {
+    text-align: center;
+    color: rgb(255, 255, 255);   
+}
+ul {
+    text-align: center;
+    color: rgb(255, 255, 255);   
+}
