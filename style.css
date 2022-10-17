@@ -2,14 +2,19 @@ body{
   background-color:lightblue;
   text-align:center;
 }
-h1{
+h1 {
+  font-size:50px;
+}
+h1 {
   font-size:50px;
 }
 ol {
+    font-size:45px;
     text-align: center;
     color: rgb(255, 255, 255);   
 }
 ul {
+    font-size:45px;
     text-align: center;
     color: rgb(255, 255, 255);   
 }
