@@ -3,6 +3,9 @@ body{
   text-align:center;
   border: 5px solid rgb(0, 0, 0);
 }
+a{
+  font-size:20px
+}
 h1 {
   font-size:60px;
 }
