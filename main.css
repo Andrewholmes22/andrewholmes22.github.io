@@ -1,5 +1,29 @@
-h1{
-  color:black
-  background-color:cyan
-    
+body{
+  background-color:lightblue;
+  text-align:center;
+  border: 5px solid rgb(0, 0, 0);
+}
+h1 {
+  font-size:60px;
+}
+h2 {
+  font-size:40px;
+}
+h3 {
+  font-size:40px;
+}
+p {
+  font-size:40px;
+}
+ol {
+    border: 2px solid rgb(0, 0, 0);
+    font-size:30px;
+    text-align: center;
+    color: rgb(0,0,0);   
+}
+ul {
+    border: 2px solid rgb(0, 0, 0);
+    font-size:30px;
+    text-align: center;
+    color: rgb(0,0,0);   
 }
