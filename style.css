@@ -1,8 +1,10 @@
 body{
-  background-color:lightblue;
+  background-color:lavender;
   text-align:center;
   border: 5px solid rgb(0, 0, 0);
+  background-image:blue;
 }
+
 h1 {
   font-size:60px;
 }
