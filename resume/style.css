@@ -1,7 +1,7 @@
 body{
   background-color:lightblue;
   text-align:center;
-  border: 5px solid rgb(0, 0, 0);
+  border: 10px solid rgb(0, 0, 0);
 }
 a{
   font-size:20px
@@ -27,4 +27,7 @@ ul {
     font-size:20px;
     text-align: left;
     color: rgb(0,0,0);   
+}
+section{
+border: 2px solid rgb(0, 0, 0);
 }
