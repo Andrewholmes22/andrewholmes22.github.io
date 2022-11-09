@@ -1,0 +1,33 @@
+body{
+  background-color:lightblue;
+  text-align:center;
+  border: 10px solid rgb(0, 0, 0);
+}
+a{
+  font-size:20px
+}
+h1 {
+  font-size:40px;
+}
+h2 {
+  font-size:40px;
+}
+h3 {
+  font-size:30px;
+}
+p {
+  font-size:30px;
+}
+ol {
+    font-size:20px;
+    text-align: left;
+    color: rgb(0,0,0);   
+}
+ul {
+    font-size:20px;
+    text-align: left;
+    color: rgb(0,0,0);   
+}
+section{
+border: 2px solid rgb(0, 0, 0);
+}
